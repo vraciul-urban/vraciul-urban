@@ -1,0 +1,11 @@
+#sidebar {
+    background-image: url("/images/cover.jpg");
+    background-size: cover;
+}
+.sidebar-container {
+    background-color: #00000063;
+    position: relative;
+    margin: 0 60px;
+    padding: 0 20px !important;
+    border-radius: 6px;
+}
