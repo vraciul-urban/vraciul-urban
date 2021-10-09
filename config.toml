@@ -20,9 +20,9 @@
 baseURL = "https://vraciul-urban.ro/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "Vraciul urban"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+#disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -50,14 +50,14 @@ canonifyurls = true
 # ------
 [author]
   name = "Vraciul urban"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "Sare cu cristale și plante tămăduitoare"
   job = "Your job title"
   location = "București"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "traian865@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -69,31 +69,31 @@ canonifyurls = true
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Acasă"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "Categorii"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Tags"
+  name = "Tag-uri"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
   weight = 4
   identifier = "archives"
-  name = "Archives"
+  name = "Arhive"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
 [[menu.main]]
   weight = 5
   identifier = "about"
-  name = "About"
+  name = "Despre"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
 
@@ -351,23 +351,23 @@ canonifyurls = true
   # --------------
   # Comment system
   # --------------
-  [params.comment]
-    [params.comment.disqus]
-      enable = true
-      shortname = "hugo-tranquilpeak-theme"
-    [params.comment.gitalk]
-      enable = false
-      # clientId =
-      # clientSecret =
-      # owner =
-      # repo =
-      # See all options: https://github.com/gitalk/gitalk#options
-      [params.comment.gitalk.options]
-        language = "en"
-        perPage = 10
-        distractionFreeMode = false
-        enableHotKey = true
-        pagerDirection = "first"
+#  [params.comment]
+#    [params.comment.disqus]
+#      enable = true
+#      shortname = "hugo-tranquilpeak-theme"
+#    [params.comment.gitalk]
+#      enable = false
+#      # clientId =
+#      # clientSecret =
+#      # owner =
+#      # repo =
+#      # See all options: https://github.com/gitalk/gitalk#options
+#      [params.comment.gitalk.options]
+#        language = "en"
+#        perPage = 10
+#        distractionFreeMode = false
+#        enableHotKey = true
+#        pagerDirection = "first"
 
   # --------------------
   # Header configuration
