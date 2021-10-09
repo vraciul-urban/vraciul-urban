@@ -1,6 +1,6 @@
 ---
 title: "Nucșoara"
-slug: nucșoară
+slug: nucșoara
 date: 2021-03-01
 categories:
 - Sare cu Cristale și Plante Tămăduitoare
