@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# ssh-add -l
+# ssh-add ~/.ssh/vraciul-urban.ro/id_ed25519
+
 find ../vraciul-urban.github.io/ -mindepth 1 -maxdepth 1 -type d -not -path '*/\.*' -exec rm -r {} \;
 find ../vraciul-urban.github.io/ -mindepth 1 -maxdepth 1 -type f -name '*ml' -exec rm -r {} \;
 
