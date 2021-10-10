@@ -7,7 +7,7 @@ categories:
 tags:
 - schinduf
 thumbnailImagePosition: left
-thumbnailImage: /images/schinduf/0.jpg
+thumbnailImage: /images/schinduf/0-preview.jpg
 coverImage: /images/schinduf/0.jpg
 ---
 Schinduful este bogat în multe **vitamine** precum vit.A, C, D, complexul de vit.B, și **minerale** precum fier, fosfor, calciu, mangan, potasiu, sodiu, zinc, cupru, seleniu, magneziu.
@@ -32,4 +32,4 @@ Printre beneficiile Schindufului asupra organismului, menționăm că este recun
 - Sporește producţia de mucus, fapt ce ajută la eliminarea alergenilor și toxinelor din sistemul respirator
 - Acţionează ca un expectorant și antispasmodic, fluidizând secreţiile și ajută la oprirea tusei cronice
 
-{{< image classes="fancybox fig-100" src="/images/schinduf/1.png" thumbnail="/images/schinduf/1.png" >}}
+{{< image classes="fancybox fig-100" src="/images/schinduf/1.png" thumbnail="/images/schinduf/1-preview.png" >}}

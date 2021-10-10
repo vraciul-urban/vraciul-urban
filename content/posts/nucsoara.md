@@ -7,7 +7,7 @@ categories:
 tags:
 - nucșoară
 thumbnailImagePosition: left
-thumbnailImage: /images/nucsoara/0.png
+thumbnailImage: /images/nucsoara/0-preview.png
 coverImage: /images/nucsoara/0.png
 ---
 Nucșoara este bogată în multe vitamine precum vit.A, B si C, B6 şi minerale precum magneziu, fosfor, fier, potasiu şi cupru.
@@ -31,5 +31,5 @@ Printre beneficiile Nucșoarei asupra organismului, menționăm că este recunos
 - Potasiul este vasodilatator, adică relaxează vasele de sânge, reducând astfel tensiunea arterială și diminuând presiunea care se pune pe sistemul cardiovascular și reglează circulatia sanguină
 - Diminuează aspectul neplăcut al cicatricilor lăsate de coşuri.
 
-{{< image classes="fancybox fig-100" src="/images/nucsoara/1.png" thumbnail="/images/nucsoara/1.png" >}}
-{{< image classes="fancybox fig-100" src="/images/nucsoara/2.png" thumbnail="/images/nucsoara/2.png" >}}
+{{< image classes="fancybox fig-100" src="/images/nucsoara/1.png" thumbnail="/images/nucsoara/1-preview.png" >}}
+{{< image classes="fancybox fig-100" src="/images/nucsoara/2.png" thumbnail="/images/nucsoara/2-preview.png" >}}

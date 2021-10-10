@@ -7,7 +7,7 @@ categories:
 tags:
 - cuișoare
 thumbnailImagePosition: left
-thumbnailImage: /images/cuisoare/0.png
+thumbnailImage: /images/cuisoare/0-preview.png
 coverImage: /images/cuisoare/0.png
 ---
 Cuișoarele sunt bogate în multe **vitamine** precum vit. A, C, D, E, K, B6, B12, folat și niacină şi **minerale** precum mangan, fier, fosfor, calciu, magneziu, zinc.
@@ -29,5 +29,5 @@ Printre beneficiile Cuișorului asupra organismului, menționăm că este recuno
 - Acidul oleanolic prezent în cuișoare oferă activitate antitumoral ă
 - Reducerea flatulen ței, a iritabilității gastrice, a dispepsiei și a senzației de greață
 
-{{< image classes="fancybox fig-100" src="/images/cuisoare/1.png" thumbnail="/images/cuisoare/1.png" >}}
-{{< image classes="fancybox fig-100" src="/images/cuisoare/2.png" thumbnail="/images/cuisoare/2.png" >}}
+{{< image classes="fancybox fig-100" src="/images/cuisoare/1.png" thumbnail="/images/cuisoare/1-preview.png" >}}
+{{< image classes="fancybox fig-100" src="/images/cuisoare/2.png" thumbnail="/images/cuisoare/2-preview.png" >}}

@@ -7,7 +7,7 @@ categories:
 tags:
 - dafin
 thumbnailImagePosition: left
-thumbnailImage: /images/dafin/0.jpg
+thumbnailImage: /images/dafin/0-preview.jpg
 coverImage: /images/dafin/0.jpg
 ---
 Dafinul este bogat în multe **vitamine** precum vit.A şi C, B6, B9 şi **minerale** precum magneziu, calciu, mangan, potasiu, fier, cupru, zinc.
@@ -34,5 +34,5 @@ Printre beneficiile Dafinului asupra organismului, menționăm diverse întrebui
 - Reduce factorii de risc pentru diabet şi boli cardiovasculare folosirea dafinului poate fi benefic pentru oamenii care sufera de diabet de tip 2, cu efect pozitiv asupra reducerii glicemiei şi a îmbunătățirii funcției insulinei.
 - Întăreşte pereții capilarelor inimii şi ale venelor din întreg organism.
 
-{{< image classes="fancybox fig-100" src="/images/dafin/1.jpg" thumbnail="/images/dafin/1.jpg" >}}
-{{< image classes="fancybox fig-100" src="/images/dafin/2.jpg" thumbnail="/images/dafin/2.jpg" >}}
+{{< image classes="fancybox fig-100" src="/images/dafin/1.jpg" thumbnail="/images/dafin/1-preview.jpg" >}}
+{{< image classes="fancybox fig-100" src="/images/dafin/2.jpg" thumbnail="/images/dafin/2-preview.jpg" >}}

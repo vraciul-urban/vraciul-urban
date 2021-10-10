@@ -7,7 +7,7 @@ categories:
 tags:
 - coriandru
 thumbnailImagePosition: left
-thumbnailImage: /images/coriandru/0.jpg
+thumbnailImage: /images/coriandru/0-preview.jpg
 coverImage: /images/coriandru/0.jpg
 ---
 Coriandrul este bogat în multe **vitamine** precum vit. A, E, K, Complexul de vit.B și C şi **minerale** precum potasiu, fosfor, calciu, cupru, zinc, magneziu, fier.
@@ -29,4 +29,4 @@ Printre beneficiile Coriandrului asupra organismului, menționăm că este recun
 - Reduce inflamația provocată de artrită cu ajutorul elementelor din compoziție
 - Coriandru tratează insomnia, are efect sedativ-relaxant și hipnotiv. Calmează nervii și reduce starea de încordare fizică și psihică.
 
-{{< image classes="fancybox fig-100" src="/images/coriandru/1.jpg" thumbnail="/images/coriandru/1.jpg" >}}
+{{< image classes="fancybox fig-100" src="/images/coriandru/1.jpg" thumbnail="/images/coriandru/1-preview.jpg" >}}

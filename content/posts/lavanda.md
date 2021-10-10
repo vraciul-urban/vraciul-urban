@@ -7,7 +7,7 @@ categories:
 tags:
 - lavandă
 thumbnailImagePosition: left
-thumbnailImage: /images/lavanda/0.jpg
+thumbnailImage: /images/lavanda/0-preview.jpg
 coverImage: /images/lavanda/0.jpg
 ---
 S-a demonstrat ştiințific că Lavanda este optimă şi benefică în tratarea tensiunilor psihice, fiind totodată întrebuințată în medicina naturistă şi pentru ameliorarea numeroaselor afec țiuni, având un rol foarte bun ca: antibacterian, antifungic, calmant, curativ, echilibrant, revigorant, antianalgezic, cicatrizant, antidepresiv, imunostimulator, antiviral, antiseptic, antifungic, antiacneeic şi antipiretic (împotriva febrei).
@@ -35,5 +35,5 @@ Printre beneficiile Lavandei asupra organismului, menționăm că este recunoscu
 - Echilibrează sistemul nervos
 - Tratează răcelile, tusea, gripa, bronșita, astmul și infecțiile gâtului.
 
-{{< image classes="fancybox fig-100" src="/images/lavanda/1.png" thumbnail="/images/lavanda/1.png" >}}
-{{< image classes="fancybox fig-100" src="/images/lavanda/2.jpg" thumbnail="/images/lavanda/2.jpg" >}}
+{{< image classes="fancybox fig-100" src="/images/lavanda/1.png" thumbnail="/images/lavanda/1-preview.png" >}}
+{{< image classes="fancybox fig-100" src="/images/lavanda/2.jpg" thumbnail="/images/lavanda/2-preview.jpg" >}}

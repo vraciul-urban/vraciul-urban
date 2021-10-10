@@ -6,7 +6,7 @@
 # convert -resize 85% test.jpg test-new.jpg
 # convert -quality 50% test.jpg test-new.jpg
 
-for fullpath in $(find ~/Desktop/src/ -name '[0-9].jpg'); do
+for fullpath in $(find ~/Desktop/images/ -name '[0-9].??g'); do
     filename="${fullpath##*/}"                      # Strip longest match of */ from start
     dir="${fullpath:0:${#fullpath} - ${#filename}}" # Substring from 0 thru pos of filename
     base="${filename%.[^.]*}"                       # Strip shortest match of . plus at least one non-dot char from end
@@ -18,7 +18,7 @@ for fullpath in $(find ~/Desktop/src/ -name '[0-9].jpg'); do
 
     # echo -e "$fullpath:\n\tdir  = \"$dir\"\n\tbase = \"$base\"\n\text  = \"$ext\""
     #convert -resize 40% $fullpath $dir$base-preview.$ext
-    convert -resize 10% $fullpath $dir$base-preview.$ext
+    convert -resize 50% $fullpath $dir$base-preview.$ext
 #    convert -quality 50% $fullpath $dir$base-preview.$ext
 done
 

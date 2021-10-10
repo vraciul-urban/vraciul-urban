@@ -7,7 +7,7 @@ categories:
 tags:
 - cimbrișor
 thumbnailImagePosition: left
-thumbnailImage: /images/cimbrisor/0.jpg
+thumbnailImage: /images/cimbrisor/0-preview.jpg
 coverImage: /images/cimbrisor/0.jpg
 ---
 Cimbrişorul este bogat în multe **vitamine** precum vit. A şi B, C şi **minerale** precum calciu, potasiu, fier.
@@ -38,5 +38,5 @@ Printre beneficiile Cimbrişorului asupra organismului, menționăm că este rec
 - Are efect diuretic şi emetic (antivomitiv); poate fi folosit în caz de intoxica ție, ajutând organismul să elimine substanțele toxice din sistem
 - Cicatrizează plăgile, este benefic în afecţiunile cutanate (eczemă, dermatită, scabie etc.)
 
-{{< image classes="fancybox fig-100" src="/images/cimbrisor/1.jpg" thumbnail="/images/cimbrisor/1.jpg" >}}
-{{< image classes="fancybox fig-100" src="/images/cimbrisor/2.png" thumbnail="/images/cimbrisor/2.png" >}}
+{{< image classes="fancybox fig-100" src="/images/cimbrisor/1.jpg" thumbnail="/images/cimbrisor/1-preview.jpg" >}}
+{{< image classes="fancybox fig-100" src="/images/cimbrisor/2.png" thumbnail="/images/cimbrisor/2-preview.png" >}}
