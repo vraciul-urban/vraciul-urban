@@ -18,8 +18,7 @@ S-a demonstrat ştiințific că semințele de Coriandru sunt optime și benefice
 Printre beneficiile Coriandrului asupra organismului, menționăm că este recunoscut a fi bun în eliminarea metalelor grele (din poluare, apă contaminată ș.a.), curățarea și vindecarea rănilor (antibacterian), stimularea activității creierului, sporirea capacității intelectuale.
 
 # Alte beneficii:
-- Are proprietăți bactericide și fungicide, coriandrul fiind un antibiotic natural. Uleiurile volatile luptă eficient împotriva agenților patogeni, iar elementele nutritive ajut ă
-- organismul să lupte și să se regenereze după boală
+- Are proprietăți bactericide și fungicide, coriandrul fiind un antibiotic natural. Uleiurile volatile luptă eficient împotriva agenților patogeni, iar elementele nutritive ajută organismul să lupte și să se regenereze după boală
 - Are acțiune vermifugă, se folosește la combaterea viermilor intestinali
 - Coriandrul este cunoscut și ca un bun tonic al sistemului nervos
 - Capacitatea acestuia de a trata în mod eficient persoanele care au înghi țit metale grele, prezente în apele contaminate cu reziduuri industriale. Aceste cazuri sunt frecvente în țările puternic industrializate. Compușii chimici care se regăsesc în coriandru posedă abilitatea de a se lega de particulele metalice, accelerând procesul de dezintoxicare și eliminând mercurul și plumbul din organism prin urinare
