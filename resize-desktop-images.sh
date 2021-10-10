@@ -18,7 +18,7 @@ for fullpath in $(find ~/Desktop/images/ -name '[0-9].??g'); do
 
     # echo -e "$fullpath:\n\tdir  = \"$dir\"\n\tbase = \"$base\"\n\text  = \"$ext\""
     #convert -resize 40% $fullpath $dir$base-preview.$ext
-    convert -resize 20% $fullpath $dir$base-preview.$ext
+    convert -resize 45% $fullpath $dir$base-preview.$ext
 #    convert -quality 50% $fullpath $dir$base-preview.$ext
 done
 
