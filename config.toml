@@ -51,7 +51,7 @@ canonifyurls = true
 [author]
   name = "Vraciul urban"
   bio = "Sare cu cristale și plante tămăduitoare"
-  job = "Your job title"
+  job = "0724.854.013"
   location = "București"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "traian865@gmail.com"
