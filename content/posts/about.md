@@ -1,6 +1,6 @@
 ---
 title: "Despre noi"
-date: 2021-10-01
+date: 2021-11-01
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /images/home/0-preview.jpg
