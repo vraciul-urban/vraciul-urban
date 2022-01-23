@@ -1,7 +1,7 @@
 ---
 title: "Mierea articulațiilor puternice"
 slug: miere
-date: 2021-10-01
+date: 2021-11-01
 categories:
 - Miere 
 tags:
