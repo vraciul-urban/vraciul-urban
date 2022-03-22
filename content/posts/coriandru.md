@@ -29,4 +29,9 @@ Printre beneficiile Coriandrului asupra organismului, menționăm că este recun
 - Reduce inflamația provocată de artrită cu ajutorul elementelor din compoziție
 - Coriandru tratează insomnia, are efect sedativ-relaxant și hipnotiv. Calmează nervii și reduce starea de încordare fizică și psihică.
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/coriandru/1.jpg" thumbnail="/images/coriandru/1-preview.jpg" >}}

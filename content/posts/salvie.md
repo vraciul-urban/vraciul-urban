@@ -34,6 +34,11 @@ Printre beneficiile Nucșoarei asupra organismului, menționăm că este recunos
 - Acționează asupra receptorilor unor hormoni importan ți în menținerea tinereții organismului și inhibă formarea unor enzime care blocheaz ă procese extrem de importante la nivelul creierului, cum ar fi: memorarea, asocierea, sinteză.
 - Prevenirea senilitățîi, a proceselor de degradare care apar la nivelul sistemului nervos central, odată cu vârsta, stimuleazăcapacitatea de memorare, favorizează activitatea intelectuală și îmbunătățește performanțele intelectuale, atât la cei în vârsta, cât și la tineri.
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/salvie/1.jpg" thumbnail="/images/salvie/1-preview.jpg" >}}
 {{< image classes="fancybox fig-100" src="/images/salvie/2.png" thumbnail="/images/salvie/2-preview.png" >}}
 {{< image classes="fancybox fig-100" src="/images/salvie/3.png" thumbnail="/images/salvie/3-preview.png" >}}

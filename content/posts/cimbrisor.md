@@ -38,5 +38,10 @@ Printre beneficiile Cimbrişorului asupra organismului, menționăm că este rec
 - Are efect diuretic şi emetic (antivomitiv); poate fi folosit în caz de intoxica ție, ajutând organismul să elimine substanțele toxice din sistem
 - Cicatrizează plăgile, este benefic în afecţiunile cutanate (eczemă, dermatită, scabie etc.)
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/cimbrisor/1.jpg" thumbnail="/images/cimbrisor/1-preview.jpg" >}}
 {{< image classes="fancybox fig-100" src="/images/cimbrisor/2.png" thumbnail="/images/cimbrisor/2-preview.png" >}}

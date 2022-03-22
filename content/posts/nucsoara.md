@@ -31,5 +31,10 @@ Printre beneficiile Nucșoarei asupra organismului, menționăm că este recunos
 - Potasiul este vasodilatator, adică relaxează vasele de sânge, reducând astfel tensiunea arterială și diminuând presiunea care se pune pe sistemul cardiovascular și reglează circulatia sanguină
 - Diminuează aspectul neplăcut al cicatricilor lăsate de coşuri.
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/nucsoara/1.png" thumbnail="/images/nucsoara/1-preview.png" >}}
 {{< image classes="fancybox fig-100" src="/images/nucsoara/2.png" thumbnail="/images/nucsoara/2-preview.png" >}}

@@ -32,4 +32,9 @@ Printre beneficiile Schindufului asupra organismului, menționăm că este recun
 - Sporește producţia de mucus, fapt ce ajută la eliminarea alergenilor și toxinelor din sistemul respirator
 - Acţionează ca un expectorant și antispasmodic, fluidizând secreţiile și ajută la oprirea tusei cronice
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/schinduf/1.png" thumbnail="/images/schinduf/1-preview.png" >}}

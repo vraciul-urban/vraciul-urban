@@ -35,5 +35,10 @@ Printre beneficiile Lavandei asupra organismului, menționăm că este recunoscu
 - Echilibrează sistemul nervos
 - Tratează răcelile, tusea, gripa, bronșita, astmul și infecțiile gâtului.
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/lavanda/1.png" thumbnail="/images/lavanda/1-preview.png" >}}
 {{< image classes="fancybox fig-100" src="/images/lavanda/2.jpg" thumbnail="/images/lavanda/2-preview.jpg" >}}

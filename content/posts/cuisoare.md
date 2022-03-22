@@ -29,5 +29,10 @@ Printre beneficiile Cuișorului asupra organismului, menționăm că este recuno
 - Acidul oleanolic prezent în cuișoare oferă activitate antitumoral ă
 - Reducerea flatulen ței, a iritabilității gastrice, a dispepsiei și a senzației de greață
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/cuisoare/1.png" thumbnail="/images/cuisoare/1-preview.png" >}}
 {{< image classes="fancybox fig-100" src="/images/cuisoare/2.png" thumbnail="/images/cuisoare/2-preview.png" >}}

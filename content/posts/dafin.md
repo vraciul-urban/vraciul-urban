@@ -34,5 +34,10 @@ Printre beneficiile Dafinului asupra organismului, menționăm diverse întrebui
 - Reduce factorii de risc pentru diabet şi boli cardiovasculare folosirea dafinului poate fi benefic pentru oamenii care sufera de diabet de tip 2, cu efect pozitiv asupra reducerii glicemiei şi a îmbunătățirii funcției insulinei.
 - Întăreşte pereții capilarelor inimii şi ale venelor din întreg organism.
 
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
+
 {{< image classes="fancybox fig-100" src="/images/dafin/1.jpg" thumbnail="/images/dafin/1-preview.jpg" >}}
 {{< image classes="fancybox fig-100" src="/images/dafin/2.jpg" thumbnail="/images/dafin/2-preview.jpg" >}}

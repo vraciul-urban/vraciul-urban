@@ -14,10 +14,10 @@ Busuiocul este foarte bogat în multe **vitamine**, precum vit. A, C și K şi *
 <!--more-->
 S-a demonstrat ştiințific că frunzele de Busuioc sunt optime și benefice în tratarea afecțiunilor inflamatoare, fiind totodată întrebuințate în medicina naturistă şi pentru **ameliorarea numeroaselor afecțiuni** având un rol foarte bun ca: antispasmodic, antianalgezic, antipiretic (reduce febra), antidiabetic, hepatoprotector, protector al vaselor de sânge, antistres, imunostimulator, antioxidant, antireumatic articular, antibacterian, antimicrobian, antidepresiv, antianxios și emenagog.
 
-Beneficii:
+# Beneficii:
 Printre beneficiile Busuiocului asupra organismului, menționăm că este recunoscut a fi bun în: dilatarea vaselor de sânge, inflamațiile musculare, ameliorarea durerilor musculare şi articulare, fiind eficient chiar și împotriva bacteriilor.
 
-Alte beneficii:
+# Alte beneficii:
 - Îmbunătățește aspectul pielii și îndepărtează insectele
 - Deține proprietăți antimicrobiene care combat virușii și infecțiile,
 - Are rol emenagog (stimulează sau reglează menstruația) și scade intensitatea crampelor menstruale, menopauza
@@ -30,6 +30,11 @@ Alte beneficii:
 - Tratează infecțiile și rănile, rezultatul pe care îl aduce această procedură este de grăbire a vindecării zonelor afectate, căci busuiocul este un bun dezinfectant.
 - Stimulează pofta de mâncare și alină durerea de cap
 - Oferă protecție contra dezvoltării bacteriilor nocive, extractul de busuioc se dovedește util și eficient în stoparea creșterii chiar și a tulpinilor de bacterii rezistente la antibiotic, tulpinilor de E.coli și altor bacterii nocive colectate de la pacienții cu infecții.
+
+# Preț:
+- Sticla mică (400 gr) - 20 lei
+- Sticla medie (800 gr) - 35 lei
+- Sticla mare (1200 gr) - 72 lei
 
 {{< image classes="fancybox fig-100" src="/images/busuioc/1.png" thumbnail="/images/busuioc/1-preview.png" >}}
 {{< image classes="fancybox fig-100" src="/images/busuioc/2.png" thumbnail="/images/busuioc/2-preview.png" >}}
